@@ -6,11 +6,11 @@ With over 10 years of experience in full-stack web development, I specialize in 
 
 ### 🔧 Technologies & Tools
 
-- **Frontend:** React.js, Redux, React Router, Tailwind CSS, Bootstrap
-- **Backend:** Node.js, Express.js, MongoDB, MySQL, Hasura, GraphQL, REST APIs
+- **Frontend:** React.js, Redux, React Router, Angular, HTML, CSS, Tailwind CSS, Bootstrap
+- **Backend:** Node.js, Express.js, MongoDB, MySQL, Hasura, GraphQL, REST APIs, PHP
 - **Mobile Development:** React Native
 - **DevOps & Tools:** Docker, Git, Nginx, Webpack, CI/CD
-- **Design:** Figma, Adobe XD, UI/UX design principles
+- **Design:** Figma, Canva, Adobe XD, Adobe Illustration, Adobe Photoshop, UI/UX design principles
 
 ### 💡 What I Do
 
