@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Ankit Varia
 
 <div align="left">
+  ## 🚀 MERN Stack Developer | Building Digital Experiences That Matter
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -16,7 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="30" alt="mongodb logo"  />
 </div>
 
-## 🚀 MERN Stack Developer | Building Digital Experiences That Matter
 
 With over 10 years of experience in full-stack web development, I specialize in building scalable, high-performance applications. I work with modern technologies to turn ideas into functional and engaging digital products.
 
