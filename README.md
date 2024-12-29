@@ -65,7 +65,7 @@ I'm always looking for new challenges and opportunities to collaborate. If you h
 
 **Connect with me:**  
 - 📧 Email: [ankit.varia10@gmail.com](mailto:ankit.varia10@gmail.com)  
-- 🌐 LinkedIn: [linkedin.com/in/ankvaria](www.linkedin.com/in/ankvaria/)  
+- 🌐 LinkedIn: [linkedin.com/in/ankvaria](http://www.linkedin.com/in/ankvaria/)  
 
 ---
 
