@@ -61,28 +61,11 @@ I'm always looking for new challenges and opportunities to collaborate. If you h
 
 ###
 
-<div align="left">
-  <a href="https://www.youtube.com/channel/UCPcaisJn4-qgY3KB2leZYtQ" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/insanisbrain/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="insanisbrain@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/insanisbrain/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
 ###
 
 **Connect with me:**  
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-- 🐦 Twitter: [@your-twitter](https://twitter.com/your-twitter)  
-- 🌐 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- 💼 Website: [your-website.com](https://your-website.com)
+- 📧 Email: [ankit.varia10@gmail.com](mailto:ankit.varia10@gmail.com)  
+- 🌐 LinkedIn: [linkedin.com/in/ankvaria](www.linkedin.com/in/ankvaria/)  
 
 ---
 
