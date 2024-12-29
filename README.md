@@ -6,17 +6,17 @@ With over 10 years of experience in full-stack web development, I specialize in 
 
 ### 🔧 Technologies & Tools
 
-- **Frontend:** React.js, Redux, React Router, Angular, HTML, CSS, Tailwind CSS, Bootstrap
-- **Backend:** Node.js, Express.js, MongoDB, MySQL, Hasura, GraphQL, REST APIs, PHP
-- **Mobile Development:** React Native
-- **DevOps & Tools:** Docker, Git, Nginx, Webpack, CI/CD
-- **Design:** Figma, Canva, Adobe XD, Adobe Illustration, Adobe Photoshop, UI/UX design principles
+- **Frontend:** React.js, Redux, React Router, Angular, HTML, CSS, Tailwind CSS, Bootstrap  
+- **Backend:** Node.js, Express.js, MongoDB, MySQL, Hasura, GraphQL, REST APIs, PHP  
+- **Mobile Development:** React Native  
+- **DevOps & Tools:** Docker, Git, Nginx, Webpack, CI/CD  
+- **Design:** Figma, Canva, Adobe XD, Adobe Illustrator, Adobe Photoshop, UI/UX design principles  
 
 ### 💡 What I Do
 
-- **Full-stack development:** From creating dynamic, data-driven frontends with React.js to building robust, scalable backends with Node.js and MongoDB.
-- **UI/UX:** Focused on crafting intuitive, responsive, and visually appealing user interfaces.
-- **API Development:** Building scalable, secure APIs with REST, GraphQL, and Hasura to deliver seamless data experiences.
+- **Full-stack development:** From creating dynamic, data-driven frontends with React.js and Angular to building robust, scalable backends with Node.js and MongoDB.  
+- **UI/UX:** Focused on crafting intuitive, responsive, and visually appealing user interfaces.  
+- **API Development:** Building scalable, secure APIs with REST, GraphQL, and Hasura to deliver seamless data experiences.  
 
 ### 🌱 Continuous Learning
 
@@ -24,10 +24,10 @@ Technology evolves rapidly, and I am always staying on top of the latest trends 
 
 ### 📈 Projects & Contributions
 
-Here are some highlights of the projects I’ve worked on:
-- [Project 1](#): Description of a significant project with a link.
-- [Project 2](#): Description of another notable project.
-- [Project 3](#): Information on another contribution or project.
+Here are some highlights of the projects I’ve worked on:  
+- [Project 1](#): Description of a significant project with a link.  
+- [Project 2](#): Description of another notable project.  
+- [Project 3](#): Information on another contribution or project.  
 
 Feel free to explore my repositories to see the code I’ve worked on or check out my contributions to open-source projects.
 
@@ -50,6 +50,8 @@ I'm always looking for new challenges and opportunities to collaborate. If you h
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angular logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -61,12 +63,10 @@ I'm always looking for new challenges and opportunities to collaborate. If you h
 
 ###
 
-###
-
 **Connect with me:**  
 - 📧 Email: [ankit.varia10@gmail.com](mailto:ankit.varia10@gmail.com)  
 - 🌐 LinkedIn: [linkedin.com/in/ankvaria](http://www.linkedin.com/in/ankvaria/)  
 
 ---
 
-*“Great software isn’t just functional; it’s delightful.”*  
+*“Great software isn’t just functional; it’s delightful.”*
