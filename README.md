@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ankit Varia
 
-## 🚀 MERN Stack Developer | Building Digital Experiences That Matter
+## 🚀 MERN / MEAN Stack Developer | Building Digital Experiences That Matter
 
 With over 10 years of experience in full-stack web development, I specialize in building scalable, high-performance applications. I work with modern technologies to turn ideas into functional and engaging digital products.
 
